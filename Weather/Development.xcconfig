@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  Weather
+//
+//  Created by deniss on 4/15/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+WEATHER_API_URL = http:\/\/api.weatherapi.com/v1
+WEATHER_API_KEY = 9ec39684296f43a5a2882804231504
